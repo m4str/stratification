@@ -1,4 +1,4 @@
-# stratification
+# Stratification
 Case about stratification sampling
 
 This case is about stratification sampling when the amount of each stratum in the sample is different from the amount in the general population.
